@@ -1,4 +1,4 @@
-# Spamclup
+# spamsms
 
 $ pkg update && upgrade
 
